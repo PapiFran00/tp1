@@ -4,9 +4,9 @@ using System.ComponentModel.Design;
 using System.Diagnostics.CodeAnalysis;
 
 string nombre = "";
-int suma = 0;
-int promedio = 0;
-int calificacion= 0;
+float suma = 0;
+float promedio = 0;
+float calificacion= 0;
 string calificaciones = "";
 
     Console.WriteLine("Ingresar nombre de estudiante");
